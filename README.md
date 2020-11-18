@@ -1,2 +1,0 @@
-# hw-repo
-homework repository
